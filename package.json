@@ -1,0 +1,21 @@
+{
+  "name": "some-thing-cool-api",
+  "version": "1.0.0",
+  "description": "very nice cool ass api",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazing-meteor/something-furry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/blazing-meteor/something-furry/issues"
+  },
+  "homepage": "https://github.com/blazing-meteor/something-furry#readme",
+  "dependencies": {
+    "@vercel/node": "^1.12.1",
+    "axios": "^0.25.0"
+  }
+}
